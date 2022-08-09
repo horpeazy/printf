@@ -22,8 +22,9 @@ int (*get_print(char s))(va_list, flags_t *)
 		{'o', print_octal},
 		{'x', print_hex},
 		{'X', print_hex_big},
+		{'S', print_bigS},
 		};
-	int flags = 9;
+	int flags = 10;
 
 	register int i;
 
