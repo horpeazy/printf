@@ -1,7 +1,7 @@
 # 0x10. C - printf
 
 ## Description
-This team project is part of the first year curriculum of ALX SE programme.
+This team project is part of the curriculum of the ALX SE programme.
 _printf replicates the C standard library printf() function.
 
 What you should learn from this project:
