@@ -24,8 +24,9 @@ int (*get_print(char s))(va_list, flags_t *)
 		{'X', print_hex_big},
 		{'S', print_bigS},
 		{'p', print_address},
+		{'r', print_rev},
 		};
-	int flags = 11;
+	int flags = 12;
 
 	register int i;
 
