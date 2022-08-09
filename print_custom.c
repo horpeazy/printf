@@ -61,7 +61,7 @@ int print_rev(va_list l, flags_t *f)
 
 	return (i);
 }
-/*
+
 /**
  * print_rot13 - prints a string using rot13
  * @l: list of arguments from _printf
