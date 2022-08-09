@@ -23,7 +23,7 @@ int (*get_print(char s))(va_list, flags_t *)
 		{'x', print_hex},
 		{'X', print_hex_big},
 		};
-	int flags = 5;
+	int flags = 9;
 
 	register int i;
 
