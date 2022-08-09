@@ -69,7 +69,7 @@ int print_rev(va_list l, flags_t *f)
  * if a flag is passed to _printf
  * Return: length of the printed string
  */
-/*int print_rot13(va_list l, flags_t *f)
+int print_rot13(va_list l, flags_t *f)
 {
 	int i, j;
 	char rot13[] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -92,7 +92,7 @@ int print_rev(va_list l, flags_t *f)
 	}
 
 	return (j);
-}*/
+}
 
 /**
  * print_percent - prints a percent
