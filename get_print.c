@@ -17,8 +17,9 @@ int (*get_print(char s))(va_list, flags_t *)
 		{'c', print_char},
 		{'i', print_int},
 		{'d', print_int},
+		{'b', print_binary},
 		};
-	int flags = 4;
+	int flags = 5;
 
 	register int i;
 
