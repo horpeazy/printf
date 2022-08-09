@@ -27,7 +27,7 @@ along with regular characters
 
 * ```_printf("Hello, Tochukwu\n")``` *prints "Hello, Tochukwu", followed by a new line*
 * ```_printf("%s", "Hello")``` *prints "Hello"*
-* ```_printf("This is a number: %d", 98)``` *prints "This is a number: 98"*
+* ```_printf("This is a number: %d", 938)``` *prints "This is a number: 938"*
 
 ---
 
