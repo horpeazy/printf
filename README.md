@@ -1,4 +1,4 @@
-# 0x10. C - printf
+# printf
 
 ## Description
 This team project is part of the curriculum of the ALX SE programme.
