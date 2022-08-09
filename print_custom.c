@@ -100,11 +100,10 @@ int print_rot13(va_list l, flags_t *f)
  * @f: pointer to the struct flags in which we turn the flags on
  * Return: number of char printed
  */
-/*
+
 int print_percent(va_list l, flags_t *f)
 {
 	(void)l;
 	(void)f;
 	return (_putchar('%'));
 }
-*/
