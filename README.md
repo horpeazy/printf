@@ -109,5 +109,5 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### Authors
 * **Iyamu Hope** - [iyamuhope.nosa@gmail.com](https://github.com/horpeazy)
-* **Tochukwu Onyeze** - [tobezonyeze34@gmail.com](https://github.com/)
+* **Tochukwu Onyeze** - [tobezonyeze34@gmail.com](https://github.com/TochukwuEgwuchika)
 
