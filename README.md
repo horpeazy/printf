@@ -2,7 +2,7 @@
 
 ## Description
 This team project is part of the curriculum of the ALX SE programme.
-_printf replicates the C standard library printf() function..
+_printf replicates the C standard library printf() function.
 
 What you should learn from this project:
 
