@@ -71,7 +71,7 @@ These are all the tasks of this project, the ones that are completed link to the
 * Handle the following conversion specifier:
   - p : int input is converted to a pointer address
 
-### [8. The big print gives and the small print takes away] (./get_flag.c)
+### [8. The big print gives and the small print takes away](./get_flag.c)
 * Handle the following flag characters for non-custom conversion specifiers:
   - \+ : adds a \+ in front of signed positive numbers and a \- in front of signed negative numbers
   - space : same as \+, but adds a space (is overwritten by \+)
@@ -98,7 +98,7 @@ These are all the tasks of this project, the ones that are completed link to the
 * Handle the following custom conversion specifier:
   - r : prints the reversed string
 
-### [15. The flood of print has turned reading into a process of gulping rather than savoring] (./print_custom.c)
+### [15. The flood of print has turned reading into a process of gulping rather than savoring](./print_custom.c)
 * Handle the following custom conversion specifier:
   - R : prints the rot13'ed string
 
